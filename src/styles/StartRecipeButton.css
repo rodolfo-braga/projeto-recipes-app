@@ -9,7 +9,7 @@
   letter-spacing: 1px;
   padding: 7px;
   position: fixed;
-  width: 360px;
+  width: 100%;
 }
 
 .finish-recipe-btn {
@@ -20,7 +20,7 @@
   font-weight: 700;
   letter-spacing: 1px;
   padding: 8px;
-  width: 360px;
+  width: 100%;
 }
 
 .finish-recipe-btn:disabled {
